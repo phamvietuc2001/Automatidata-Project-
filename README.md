@@ -6,7 +6,7 @@ Automatidata is consulting for the New York City Taxi and Limousine Commission (
 
 The TLC data comes from over 200,000 taxi and limousine licensees, making approximately one million combined trips per day. 
 
-### **In this project, there are a total of 6 sections included for each phase.** 
+### **In this project, there are a total of 6 sections included for each phase:** 
 * The first is the project proposal, which is the outlined milestones that need to be completed in each phase. 
 * The second one is to begin exploring the dataset by using Python. 
 * The third is to dig deeper into the dataset by performing the Exploratory Data Analysis process and visualizations. 
