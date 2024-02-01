@@ -7,9 +7,9 @@ Automatidata is consulting for the New York City Taxi and Limousine Commission (
 The TLC data comes from over 200,000 taxi and limousine licensees, making approximately one million combined trips per day. 
 
 ### **In this project, there are a total of 6 sections included for each phase:** 
-* The first is the project proposal, which is the outlined milestones that need to be completed in each phase. 
-* The second one is to begin exploring the dataset by using Python. 
-* The third is to dig deeper into the dataset by performing the Exploratory Data Analysis process and visualizations. 
-* The 4th is to perform A/B testing (two-sample t-test) to analyze whether there is a relationship between payment type and fare amount. Particularly, whether the customers who use credit cards pay higher fare amounts than customers who use cash.
-* The 5th is to build a multiple linear regression model through the request of New York City TLC to predict the taxi fare rides in advance. 
-* The final phase is to develop the machine-learning model(s) to predict whether riders will be generous tippers (by tipping 20% or more).
+* The first is the project proposal, which is the outlined milestones that need to be completed in each phase (course 1).
+* The second one is to begin exploring the dataset by using Python (course 2).
+* The third is to dig deeper into the dataset by performing the Exploratory Data Analysis process and visualizations (course 3).
+* The 4th is to perform A/B testing (two-sample t-test) to analyze whether there is a relationship between payment type and fare amount. Particularly, whether the customers who use credit cards pay higher fare amounts than customers who use cash (course 4).
+* The 5th is to build a multiple linear regression model through the request of New York City TLC to predict the taxi fare rides in advance (course 5).
+* The final phase is to develop the machine-learning model(s) to predict whether riders will be generous tippers (by tipping 20% or more) (course 6).
