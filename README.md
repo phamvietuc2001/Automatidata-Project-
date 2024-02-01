@@ -10,5 +10,6 @@ The TLC data comes from over 200,000 taxi and limousine licensees, making approx
 * The first is the project proposal, which is the outlined milestones that need to be completed in each phase. 
 * The second one is to begin exploring the dataset by using Python. 
 * The third is to dig deeper into the dataset by performing the Exploratory Data Analysis process and visualizations. 
-* The 4th is to perform A/B testing (two-sample t-test) to analyze whether there is a relationship between payment type and fare amount. Particularly, whether the customers who use credit cards pay higher fare amounts than customers who use cash. The 5th is to create the multiple linear regression model through the request of New York City TLC to predict the taxi fare rides in advance. 
+* The 4th is to perform A/B testing (two-sample t-test) to analyze whether there is a relationship between payment type and fare amount. Particularly, whether the customers who use credit cards pay higher fare amounts than customers who use cash.
+* The 5th is to create the multiple linear regression model through the request of New York City TLC to predict the taxi fare rides in advance. 
 * The final phase is to create a machine-learning model to predict whether riders will be generous tippers (by tipping 20% or more).
