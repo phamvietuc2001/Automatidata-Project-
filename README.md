@@ -7,9 +7,11 @@
 * The 5th is to build a `multiple linear regression model` through the request of New York City TLC to predict the taxi `fare rides` in advance (course 5).
 * The final phase is to develop the `machine-learning model(s)` to predict whether riders will be `generous tippers` (by tipping 20% or more) (course 6).
 
-#### Each portfolio project included the **PACE strategy document** and **executive summary:**
+#### Each portfolio project included the **PACE strategy document** and **executive summary**:
 * PACE document stands for **Plan-Analyze-Construct-Execute**, which is to outline the needed steps to take to complete the project.
 * The executive summary is a **one-page format** report, that summarizes the key results & information of the project to the cross-functional team members and stakeholders, and recommends the next steps to take.
+
+#### Besides, there also included the CSV file of the dataset and the Jupyter Notebook for Python coding
 
 ### Here is the scenario for the project: 
 
